@@ -1,0 +1,14 @@
+D:\C# programs\CRemoteEMS\CRemoteEMS\bin\Debug\CRemoteEMS.dll
+D:\C# programs\CRemoteEMS\CRemoteEMS\bin\Debug\CRemoteEMS.pdb
+D:\C# programs\CRemoteEMS\CRemoteEMS\bin\Debug\IRemoteEMS.dll
+D:\C# programs\CRemoteEMS\CRemoteEMS\bin\Debug\IRemoteEMS.pdb
+D:\C# programs\CRemoteEMS\CRemoteEMS\obj\Debug\CRemoteEMS.csprojResolveAssemblyReference.cache
+D:\C# programs\CRemoteEMS\CRemoteEMS\obj\Debug\CRemoteEMS.dll
+D:\C# programs\CRemoteEMS\CRemoteEMS\obj\Debug\CRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\CRemoteEMS\CRemoteEMS\bin\Debug\CRemoteEMS.dll
+D:\Downloads\Employee_Management_System\CRemoteEMS\CRemoteEMS\bin\Debug\CRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\CRemoteEMS\CRemoteEMS\bin\Debug\IRemoteEMS.dll
+D:\Downloads\Employee_Management_System\CRemoteEMS\CRemoteEMS\bin\Debug\IRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\CRemoteEMS\CRemoteEMS\obj\Debug\CRemoteEMS.csprojResolveAssemblyReference.cache
+D:\Downloads\Employee_Management_System\CRemoteEMS\CRemoteEMS\obj\Debug\CRemoteEMS.dll
+D:\Downloads\Employee_Management_System\CRemoteEMS\CRemoteEMS\obj\Debug\CRemoteEMS.pdb

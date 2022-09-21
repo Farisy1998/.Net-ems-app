@@ -1,0 +1,10 @@
+D:\C# programs\IRemoteEMS\IRemoteEMS\bin\Debug\IRemoteEMS.dll
+D:\C# programs\IRemoteEMS\IRemoteEMS\bin\Debug\IRemoteEMS.pdb
+D:\C# programs\IRemoteEMS\IRemoteEMS\obj\Debug\IRemoteEMS.csprojResolveAssemblyReference.cache
+D:\C# programs\IRemoteEMS\IRemoteEMS\obj\Debug\IRemoteEMS.dll
+D:\C# programs\IRemoteEMS\IRemoteEMS\obj\Debug\IRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\IRemoteEMS\IRemoteEMS\bin\Debug\IRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\IRemoteEMS\IRemoteEMS\obj\Debug\IRemoteEMS.csprojResolveAssemblyReference.cache
+D:\Downloads\Employee_Management_System\IRemoteEMS\IRemoteEMS\obj\Debug\IRemoteEMS.dll
+D:\Downloads\Employee_Management_System\IRemoteEMS\IRemoteEMS\obj\Debug\IRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\IRemoteEMS\IRemoteEMS\bin\Debug\IRemoteEMS.dll

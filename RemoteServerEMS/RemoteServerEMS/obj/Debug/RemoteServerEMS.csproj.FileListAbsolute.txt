@@ -1,0 +1,30 @@
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.exe.config
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.exe
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.pdb
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\bin\Debug\CRemoteEMS.dll
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\bin\Debug\IRemoteEMS.dll
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\bin\Debug\CRemoteEMS.pdb
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\bin\Debug\IRemoteEMS.pdb
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.csprojResolveAssemblyReference.cache
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.exe
+D:\C# programs\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.pdb
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.exe.config
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.exe
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.pdb
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.exe
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.pdb
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\CRemoteEMS.dll
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\IRemoteEMS.dll
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\CRemoteEMS.pdb
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\IRemoteEMS.pdb
+D:\C# programs\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.csprojResolveAssemblyReference.cache
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.exe.config
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.exe
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.pdb
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.exe
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\RemoteServerEMS.pdb
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\CRemoteEMS.dll
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\IRemoteEMS.dll
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\CRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\bin\Debug\IRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\RemoteServerEMS\RemoteServerEMS\obj\Debug\RemoteServerEMS.csprojResolveAssemblyReference.cache

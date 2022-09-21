@@ -1,0 +1,33 @@
+D:\C# programs\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.exe.config
+D:\C# programs\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.exe
+D:\C# programs\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.pdb
+D:\C# programs\ClientWFEMS\ClientWFEMS\bin\Debug\IRemoteEMS.dll
+D:\C# programs\ClientWFEMS\ClientWFEMS\bin\Debug\IRemoteEMS.pdb
+D:\C# programs\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.csprojResolveAssemblyReference.cache
+D:\C# programs\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.Properties.Resources.resources
+D:\C# programs\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.csproj.GenerateResource.Cache
+D:\C# programs\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.exe
+D:\C# programs\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.pdb
+D:\C# programs\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.HTTPREG.resources
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.exe.config
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.exe
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.pdb
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.exe
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.pdb
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\IRemoteEMS.dll
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\IRemoteEMS.pdb
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.csprojResolveAssemblyReference.cache
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.Properties.Resources.resources
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.csproj.GenerateResource.Cache
+D:\C# programs\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.Form1.resources
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.exe.config
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.exe
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.pdb
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.exe
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\ClientWFEMS.pdb
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\IRemoteEMS.dll
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\bin\Debug\IRemoteEMS.pdb
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.csprojResolveAssemblyReference.cache
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.Form1.resources
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.Properties.Resources.resources
+D:\Downloads\Employee_Management_System\ClientWFEMS\ClientWFEMS\obj\Debug\ClientWFEMS.csproj.GenerateResource.Cache
